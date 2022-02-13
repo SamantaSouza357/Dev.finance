@@ -13,19 +13,16 @@ const Modal = {
 
 const transactions = [
     {
-        id: 1,
         description: 'Luz',
         amount: -50010,
         date: '23/01/2022'
     },
     {
-        id: 2,
         description: 'Website',
         amount: 500000,
         date: '23/01/2022'
     },
     {
-        id: 3,
         description: 'Internet',
         amount: -20000,
         date: '23/01/2022'
@@ -39,6 +36,12 @@ const Transaction = {
 
     add(transaction){
         Transaction.all.push(transaction);
+
+        app.reload()
+    },
+
+    remove(index){
+        Transaction.all.splice(index,1)
 
         app.reload()
     },
@@ -150,9 +153,4 @@ const app = {
 
 app.init();
 
-Transaction.add({
-    id: 9,
-    description: "Mercado",
-    amount: -20000,
-    date: "22/05/2022"
-})
+Transaction.remove(1)
