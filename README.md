@@ -1,4 +1,4 @@
- <div style="display:flex; align-items:center;justify-content:center;"><img src="./imagens/logo_devFinance.png" /></div>
+<img align=”center src="./imagens/logo_devFinance.png"  />
 
 --------------------------------------------------------------------------------
 
