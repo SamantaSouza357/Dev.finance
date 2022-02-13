@@ -1,31 +1,31 @@
- <img src="./imagens/logo-devFinance.png" > <img src="./src/assets/geradoSenha.jpeg"  width="230">
+ <img src="./imagens/logo_devFinance.png" >
 
 --------------------------------------------------------------------------------
 
-# ✨ Funcionamento:
-## - [] Registro de Entradas
-## - [] Registro de Saídas
-## - [x] Cálculo do Total
-## - [] Adicionar transação
-## - []  Remover transação
-## - [x] Tabela com os campos:
-- [x]  Descrição
+## ✨ Funcionamento:
+- [] Registro de Entradas
+- [] Registro de Saídas
+- [x] Cálculo do Total
+- [] Adicionar transação
+- []  Remover transação
+- [x] Tabela com os campos:
+- [x] Descrição
 - [x] Valor
-- [x]Data
-## - [x]  Modal:
-- []  Salvar transação
+- [x] Data
+ - [x]  Modal:
+- [] Salvar transação
 - [x]  Cancelar ação
 - [x]  Responsividade para mobile e desktop
 
 
-# 💻 Tecnologias:
-## As seguintes tecnologias foram usadas na construção do projeto:
+## 💻 Tecnologias:
+#### As seguintes tecnologias foram usadas na construção do projeto:
 
 * HTML
 * JavaScript
 
 
-# 🎨 Layout:
+## 🎨 Layout:
 - CSS
 
 
