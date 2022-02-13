@@ -18,15 +18,20 @@
 - [x]  Responsividade para mobile e desktop
 
 
+------------------------------------
+
 ###  💻 Tecnologias:
 #### As seguintes tecnologias foram usadas na construção do projeto:
 
 * HTML
 * JavaScript
 
+-------------------
 
 ### 🎨 Layout:
 - CSS
+
+----------------
 
 
 ### 📂 Como instalar o projeto:
